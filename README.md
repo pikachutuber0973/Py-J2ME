@@ -31,9 +31,9 @@ W - R soft
 
 1-9 is self explanatory too
 
-* - asterisk
+asterisk key - asterisk
 
-/ - pound (#)
+/ - pound key or #
 
 
 
